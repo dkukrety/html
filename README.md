@@ -1,3 +1,3 @@
-# html
+# html, CSS, Bootstrap Learning from Exceler.
 
-1. check for html cheat sheet.
+Exercise and practice examples for html, css and bootstrap.
